@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "13.49%",
-    "uptimeDay": "13.49%",
-    "uptimeWeek": "13.49%",
-    "uptimeMonth": "13.49%",
-    "uptimeYear": "13.49%",
+    "uptime": "5.64%",
+    "uptimeDay": "5.64%",
+    "uptimeWeek": "5.64%",
+    "uptimeMonth": "5.64%",
+    "uptimeYear": "5.64%",
     "time": 1240,
     "timeDay": 1240,
     "timeWeek": 1240,
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "laser-maker-api",
     "status": "up",
-    "uptime": "68.59%",
-    "uptimeDay": "68.59%",
-    "uptimeWeek": "68.59%",
-    "uptimeMonth": "68.59%",
-    "uptimeYear": "68.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 910,
     "timeDay": 910,
     "timeWeek": 910,
     "timeMonth": 910,
     "timeYear": 910,
-    "dailyMinutesDown": {
-      "2024-02-19": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LaserMaker崩溃信息收集API",
@@ -45,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "laser-maker-api",
     "status": "up",
-    "uptime": "69.44%",
-    "uptimeDay": "69.44%",
-    "uptimeWeek": "69.44%",
-    "uptimeMonth": "69.44%",
-    "uptimeYear": "69.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 910,
     "timeDay": 910,
     "timeWeek": 910,
     "timeMonth": 910,
     "timeYear": 910,
-    "dailyMinutesDown": {
-      "2024-02-19": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LaserBlock登陆状态同步服务",
