@@ -1,7 +1,7 @@
-url: $YML_LASERMAKER_CRASH_COLLECT_API_URL
-status: up
-code: 405
-responseTime: 986
-lastUpdated: 2024-02-19T02:53:26.399Z
+url: $YML_LASERMAKER_COLLECT_API_URL
+status: down
+code: 403
+responseTime: 748
+lastUpdated: 2024-02-19T02:59:48.575Z
 startTime: 2024-02-19T01:48:58.932Z
 generator: Upptime <https://github.com/upptime/upptime>
