@@ -58,7 +58,7 @@
     "url": "$YML_LASERBLOCK_LOGIN_SYNC_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "LASERBLOCK_LOGIN_SYNC_API",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1255,
     "timeMonth": 1277,
     "timeYear": 1277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 0
+    }
   }
 ]
