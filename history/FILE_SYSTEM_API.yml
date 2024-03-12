@@ -1,7 +1,7 @@
 url: $YML_FILE_SYSTEM_API_URL
 status: up
 code: 200
-responseTime: 1002
-lastUpdated: 2024-03-10T23:12:35.709Z
+responseTime: 704
+lastUpdated: 2024-03-12T23:14:12.902Z
 startTime: 2024-02-20T10:56:05.794Z
 generator: Upptime <https://github.com/upptime/upptime>
