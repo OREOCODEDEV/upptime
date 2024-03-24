@@ -4,18 +4,20 @@
     "url": "$YML_FILE_SYSTEM_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "FILE_SYSTEM_API",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1024,
-    "timeDay": 735,
-    "timeWeek": 1035,
-    "timeMonth": 1010,
-    "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "time": 1088,
+    "timeDay": 2001,
+    "timeWeek": 1314,
+    "timeMonth": 1085,
+    "timeYear": 1088,
+    "dailyMinutesDown": {
+      "2024-03-24": 0
+    }
   },
   {
     "name": "LaserMaker使用状态信息收集服务",
