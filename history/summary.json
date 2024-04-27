@@ -4,18 +4,19 @@
     "url": "$YML_FILE_SYSTEM_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "FILE_SYSTEM_API",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.23%",
     "time": 1098,
     "timeDay": 1028,
     "timeWeek": 1082,
     "timeMonth": 1053,
     "timeYear": 1098,
     "dailyMinutesDown": {
+      "2024-04-27": 2,
       "2024-03-25": 379,
       "2024-03-24": 1335
     }
@@ -25,10 +26,10 @@
     "url": "$YML_LASERMAKER_COLLECT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "LASERMAKER_COLLECT_API",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 913,
@@ -36,17 +37,19 @@
     "timeWeek": 1090,
     "timeMonth": 957,
     "timeYear": 913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-27": 2
+    }
   },
   {
     "name": "LaserMaker崩溃信息收集服务",
     "url": "$YML_LASERMAKER_CRASH_COLLECT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "LASERMAKER_CRASH_COLLECT_API",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
@@ -54,7 +57,9 @@
     "timeWeek": 770,
     "timeMonth": 806,
     "timeYear": 790,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-27": 1
+    }
   },
   {
     "name": "LaserBlock登陆状态同步服务",
