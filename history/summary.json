@@ -4,11 +4,11 @@
     "url": "$YML_FILE_SYSTEM_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "FILE_SYSTEM_API",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.31%",
     "time": 1089,
     "timeDay": 828,
@@ -16,6 +16,7 @@
     "timeMonth": 1028,
     "timeYear": 1089,
     "dailyMinutesDown": {
+      "2024-05-01": 3,
       "2024-03-25": 379,
       "2024-03-24": 1335
     }
@@ -25,10 +26,10 @@
     "url": "$YML_LASERMAKER_COLLECT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "LASERMAKER_COLLECT_API",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 905,
@@ -36,17 +37,19 @@
     "timeWeek": 904,
     "timeMonth": 914,
     "timeYear": 905,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 2
+    }
   },
   {
     "name": "LaserMaker崩溃信息收集服务",
     "url": "$YML_LASERMAKER_CRASH_COLLECT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "LASERMAKER_CRASH_COLLECT_API",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 796,
@@ -54,16 +57,18 @@
     "timeWeek": 815,
     "timeMonth": 811,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 2
+    }
   },
   {
     "name": "LaserBlock登陆状态同步服务",
     "url": "$YML_LASERBLOCK_LOGIN_SYNC_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "LASERBLOCK_LOGIN_SYNC_API",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.80%",
@@ -73,6 +78,7 @@
     "timeMonth": 1828,
     "timeYear": 1531,
     "dailyMinutesDown": {
+      "2024-05-01": 0,
       "2024-04-17": 173,
       "2024-03-08": 29
     }
