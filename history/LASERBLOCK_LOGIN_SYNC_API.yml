@@ -1,7 +1,7 @@
 url: $YML_LASERBLOCK_LOGIN_SYNC_API_URL
-status: down
-code: 502
-responseTime: 5122
-lastUpdated: 2024-05-05T23:13:39.947Z
+status: up
+code: 200
+responseTime: 2822
+lastUpdated: 2024-05-06T02:22:50.063Z
 startTime: 2024-02-20T10:56:10.078Z
 generator: Upptime <https://github.com/upptime/upptime>
