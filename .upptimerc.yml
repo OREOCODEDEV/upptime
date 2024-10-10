@@ -29,6 +29,14 @@ sites:
     url: $YML_LASERBLOCK_LOGIN_SYNC_API_URL
     slug: LASERBLOCK_LOGIN_SYNC_API
 
+  - name: LaserMaker授权码服务
+    url: $YML_LASERMAKER_SIGN_SERVER_URL
+    slug: LASERMAKER_SIGN_SERVICE
+    method: POST
+    expectedStatusCodes:
+      - 422
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
