@@ -1,7 +1,7 @@
 url: $YML_LASERMAKER_SIGN_SERVER_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-15T10:20:47.249Z
+status: up
+code: 422
+responseTime: 1017
+lastUpdated: 2024-10-15T10:37:53.060Z
 startTime: 2024-10-10T01:20:47.430Z
 generator: Upptime <https://github.com/upptime/upptime>
